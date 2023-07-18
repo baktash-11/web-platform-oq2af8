@@ -1,0 +1,25 @@
+body {
+  background-color: #acc196;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  list-style: none;
+  padding: 10px;
+  margin: 5px;
+  background-color: #3c91e6;
+  width: 300px;
+  border-radius: 4px;
+  text-align: center;
+}
